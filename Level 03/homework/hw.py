@@ -1,7 +1,7 @@
-name=data
-lastname=kitiashvili
+name="data"
+lastname="kitiashvili"
 age=13
-print (Hello,My name is Data and my last name is kitiashvili, i am 13 years old)
+print ("Hello,My name is "+name+"and my last name is "+lastname+", i am" +str(age))
 number=10
 number2=15
 number3=30

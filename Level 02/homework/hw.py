@@ -1,5 +1,9 @@
 # შექმენით 5-5 მაგალითი მათემატიკურ ოპერატორებზე +, -, * და 
-50-12
+print (50-12)
+print (12+50)
+print (12*12)
+print (50/50)
+print (12-12)
 info=13
 info2=data
 info3=kitiashvili
