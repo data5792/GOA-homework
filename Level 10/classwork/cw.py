@@ -14,10 +14,10 @@
 # else:
 #     print("ნაკლებია")
 #4) მომხმარებელს შემოატანინეთ ორი რიცხვი და დაბეჭდეთ უფრო მაღალი რიცხვი
-number1= int(input("enter a number:  "))
-number2= int(input("enter a second number: "))
+#number1= int(input("enter a number:  "))
+#number2= int(input("enter a second number: "))
 
-if number1 > number2:
-    print(number1)
-else:
-    print(number2)
+#if number1 > number2:
+    #print(number1)
+#else:
+    #print(number2)
