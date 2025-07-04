@@ -4,11 +4,9 @@
 # მოცემულია სია: `['cat', 'dog', 'fish']`
 # დაბეჭდე მეორე ელემენტი (ინდექსინგით).
 # ელემენტი უნდა იყოს `"dog"`
-#pets = ['cat', 'dog', 'fish']
-#print(pets[1])
-# 3)
+# Pets= ['cat', 'dog', 'fish']
+# print(Pets[1])
 # შეიყვანე ტექსტი და დაბეჭდე ბოლო სიმბოლო ინდექსის მეშვეობით (არა სლაისინგით და არა უარყოფითი ინდექსით).
 # მაგ: "hello" → `o` (მოძებნე `len(text) - 1` ინდექსით)
-# string = "hello world"
-# Letter=len(string) - 1
-# print("The Last letter of the word: {string[Letter]}")
+# string="hello"
+# print(string[4])
