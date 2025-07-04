@@ -1,4 +1,4 @@
-#while true:
+# while true:
 #     print("Hello")
 #     print("Okay")
 #     print("bye")
@@ -11,6 +11,6 @@
 #     ten = ten + 1
 
 # number = 1
-# while number<100#:
-#     print("plus five")
-#     number = number + 5
+# while number<100: 
+#    print("plus five")
+#    number = number + 5 
